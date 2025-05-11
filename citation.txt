@@ -1,1 +1,9 @@
+References
+
+Active Stereo Vision. (n.d.). Homepages.inf.ed.ac.uk. https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/TRAPP1/filter.html
+Carandini, M. (2012). Area V1. Scholarpedia, 7(7), 12105. https://doi.org/10.4249/scholarpedia.12105
+Carlin, J. (2021, January 29). Gabor-filter models for visual neuroscience. Johan Carlin. https://www.johancarlin.com/gabor-filter-models-for-visual-neuroscience.html
+GeeksforGeeks. (2024, July 22). What is Edge Detection in Image Processing? GeeksforGeeks; GeeksforGeeks. https://www.geeksforgeeks.org/what-is-edge-detection-in-image-processing/
+Kaler, P. (2016). Study of Grayscale Image in Image Processing. International Journal on Recent and Innovation Trends in Computing and Communication, 4(11), 309–311. https://doi.org/10.17762/ijritcc.v4i11.2653
+Simple Cells. (2025). Hanover.edu. https://isle.hanover.edu/Ch04Brain/Ch04SimpleCell.html
 
