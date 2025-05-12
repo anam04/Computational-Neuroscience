@@ -1,12 +1,12 @@
 Hello,
 I am Anam Ahamed, a sophomore studying at the Ashoka University.
 This is my final project for the Computational Neuroscience ISM.
-This project simulates how the **primary visual cortex (V1)** in the brain detects **edges** and **orientations** in a visual scene using biologically-inspired **Gabor filters**.
+This project simulates how the **primary visual cortex (V1)** in the brain detects **edges** and **orientations** in a visual scene using biologically inspired **Gabor filters**.
 
 ## 🔍 Project Overview
 
 - Models **simple and complex cells** in V1 using 2D Gabor filters
-- Applies a Gabor filter bank across multiple orientations (0° to 157.5°)
+- Applies a Gabor filter bank across orientations
 - Visualizes **orientation-specific responses** and computes **V1 energy**
 - Demonstrates **contrast invariance** by comparing original vs contrast-inverted images
 - Uses a grayscale image of a **cat** for demonstration
