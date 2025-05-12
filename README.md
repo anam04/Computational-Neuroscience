@@ -13,14 +13,10 @@ This project simulates how the **primary visual cortex (V1)** in the brain detec
 
 ## 🧰 Tech Stack
 
-- Python 3
 - Google Colab
-- `numpy`, `matplotlib`, `scikit-image`, `tensorflow`
+- `numpy`, `matplotlib`, `scikit-image`, `tensorflow` (all the libraries that have been used to build this project)
 - Custom module: [`gwp`](https://www.johancarlin.com/gabor-filter-models-for-visual-neuroscience.html) (by Johan Carlin)
 
-## 🧠 Biological Motivation
-
-This model is inspired by how neurons in the **visual cortex (V1)** respond to specific edge orientations and spatial frequencies. Gabor functions closely resemble the receptive fields of V1 simple cells (Jones & Palmer, 1987). The energy model used mimics complex cells, which are phase-invariant.
 
 ## 📊 Outputs
 
