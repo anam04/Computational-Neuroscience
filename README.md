@@ -34,4 +34,6 @@ This project simulates how the **primary visual cortex (V1)** in the brain detec
 ## 🤝 Acknowledgments
 
 Thanks to [Johan Carlin](https://www.johancarlin.com/) for the original Gabor filter model.
+I am thankful to Professor Bittu for providing all the students with a platform and an opportunity to deeply engage with the course. It truly helped shaped the intellectual and thought-provind conversations in the room, truly helped gain even a nunaced understanding of this course.
+I am also thankful to Aryan and Manas for helping initiate fruitful classroom discussion via coversations and presentations throughout this ISM.
 
