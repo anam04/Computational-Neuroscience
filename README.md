@@ -1,6 +1,6 @@
 Hello,
 I am Anam Ahamed, a sophomore studying at the Ashoka University.
-This is my final project for the Computational Neuroscience ISM.
+This is my final project for the Computational Neuroscience ISM(Independent Study Module).
 This project simulates how the **primary visual cortex (V1)** in the brain detects **edges** and **orientations** in a visual scene using biologically inspired **Gabor filters**.
 
 ## 🔍 Project Overview
