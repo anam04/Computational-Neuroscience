@@ -1,3 +1,6 @@
+![license](https://img.shields.io/badge/license-Apache--2.0-blue)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vtpXwzC1h4xkxp47wXspfkWR5yuodIAv?usp=sharing)
+
 I Curated a a Computational Neuroscience Project which shows the **Simulation of Visual Cortex Edge Detection with Gabor Filters**.
 This project simulates how the primary visual cortex (V1) detects edges and orientations using biologically inspired Gabor filters. It demonstrates edge/orientation detection through interactive visualizations.
 
