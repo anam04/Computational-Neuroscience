@@ -1,15 +1,23 @@
 Hello,
 I am Anam Ahamed, a sophomore studying at the Ashoka University.
-This is my final project for the Computational Neuroscience ISM(Independent Study Module).
-This project simulates how the **primary visual cortex (V1)** in the brain detects **edges** and **orientations** in a visual scene using biologically inspired **Gabor filters**.
+I curated a a Computational Neuroscience Project which shows the **Simulation of Visual Cortex Edge Detection with Gabor Filters**.
+This project simulates how the **biologically inspired simulation of V1 visual cortex cells, demonstrating edge/orientation detection using Gabor filters with interactive visualizations**.
+
+<img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/513f8c61-7e09-4809-9c3c-efb43e8c3e69" />
+
+<img width="515" height="350" alt="image" src="https://github.com/user-attachments/assets/18359298-ddc8-474f-8774-dff9fe43681b" />
+
+<img width="515" height="376" alt="image" src="https://github.com/user-attachments/assets/a91b48f0-6d7d-486f-908a-896cc638616b" />
+
+
 
 ## 🔍 Project Overview
 
-- Models **simple and complex cells** in V1 using 2D Gabor filters
-- Applies a Gabor filter bank across orientations
-- Visualizes **orientation-specific responses** and computes **V1 energy**
-- Demonstrates **contrast invariance** by comparing original vs contrast-inverted images
-- Uses a grayscale image of a **cat** for demonstration
+- Modeled V1 simple & complex cells with 2D Gabor filters.
+- Applied a multi-orientation filter bank for edge detection.
+- Computed orientation-specific energy & combined responses.
+- Demonstrated **contrast invariance** on natural images (cat sample).
+- Produced interactive visualizations of orientation maps.
 
 ## 🧰 Tech Stack
 
@@ -21,19 +29,28 @@ This project simulates how the **primary visual cortex (V1)** in the brain detec
 ## 📊 Outputs
 
 - Gabor filter visualizations
+
+  <img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/6438cf6f-218a-4568-afcc-3bf2271d7ace" />
+
 - Orientation-specific energy maps
+
+  <img width="515" height="188" alt="image" src="https://github.com/user-attachments/assets/24901374-ffd3-4c80-808f-732b3cc33801" />
+
 - Combined orientation energy map
+
+  <img width="274" height="1274" alt="image" src="https://github.com/user-attachments/assets/e862c677-07cb-4043-9317-528753af1a6e" />
+
 - V1 response to contrast-inverted input
+
+  <img width="515" height="376" alt="image" src="https://github.com/user-attachments/assets/6f50d650-0fb6-4a1b-ba01-1dabb769b078" />
+
 
 ## 📂 Files
 
-- `comp_neuro_finalproject.py` — full code
-- `cat1.jpeg` — input image used
+- `comp_neuro_finalproject.py` — main script, run preprocessing and visualization.
+- `cat1.jpeg` — sample input used(replacebale)
 - `gwp.py`- John Carlin's customized Module implement Gabor Filter to Images.
 
 ## 🤝 Acknowledgments
 
-Thanks to [Johan Carlin](https://www.johancarlin.com/) for the original Gabor filter model.
-I am thankful to Professor Bittu for providing all the students with a platform and an opportunity to deeply engage with the course. It truly helped shaped the intellectual and thought-provind conversations in the room, truly helped gain even a nunaced understanding of this course.
-I am also thankful to Aryan and Manas for helping initiate fruitful classroom discussion via coversations and presentations throughout this ISM.
-
+Based on Johan Carlin's Gabor filter model(https://www.johancarlin.com/). I am grateful to Professor Bittu for guidance throughout the course, which fostered engaging discussions and a deeper understanding of the subject. I would also like to thank Aryan and Manas for their valuable contributions to classroom discussions and presentations during this ISM.
