@@ -1,14 +1,9 @@
-Hello,
-I am Anam Ahamed, a sophomore studying at the Ashoka University.
-I curated a a Computational Neuroscience Project which shows the **Simulation of Visual Cortex Edge Detection with Gabor Filters**.
+I Curated a a Computational Neuroscience Project which shows the **Simulation of Visual Cortex Edge Detection with Gabor Filters**.
 This project simulates how the primary visual cortex (V1) detects edges and orientations using biologically inspired Gabor filters. It demonstrates edge/orientation detection through interactive visualizations.
 
 <img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/513f8c61-7e09-4809-9c3c-efb43e8c3e69" />
-
 <img width="515" height="350" alt="image" src="https://github.com/user-attachments/assets/18359298-ddc8-474f-8774-dff9fe43681b" />
-
 <img width="515" height="376" alt="image" src="https://github.com/user-attachments/assets/a91b48f0-6d7d-486f-908a-896cc638616b" />
-
 
 
 ## 🔍 Project Overview
@@ -18,6 +13,7 @@ This project simulates how the primary visual cortex (V1) detects edges and orie
 - Computed orientation-specific energy & combined responses.
 - Demonstrated **contrast invariance** on natural images (cat sample).
 - Produced interactive visualizations of orientation maps.
+
 
 ## 🚀 Quickstart
 
@@ -35,8 +31,8 @@ pip install -r requirements.txt
 python comp_neuro_finalproject.py
 **Replace `cat1.jpeg` with any grayscale image to test orientation detection.**
 ```
-## 🧰 Tech Stack
 
+## 🧰 Tech Stack
 - Google Colab ->reproducibility & prototyping
   `requirements.txt`
 - `numpy`, `matplotlib`, `scikit-image`, `tensorflow`-> filter ops, visualization, and computation
@@ -46,28 +42,20 @@ python comp_neuro_finalproject.py
 ## 📊 Outputs
 
 - Gabor filter visualizations
-
   <img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/6438cf6f-218a-4568-afcc-3bf2271d7ace" />
-
 - Orientation-specific energy maps
-
   <img width="515" height="188" alt="image" src="https://github.com/user-attachments/assets/24901374-ffd3-4c80-808f-732b3cc33801" />
-
 - Combined orientation energy map
-
   <img width="274" height="1274" alt="image" src="https://github.com/user-attachments/assets/e862c677-07cb-4043-9317-528753af1a6e" />
-
 - V1 response to contrast-inverted input
-
   <img width="515" height="376" alt="image" src="https://github.com/user-attachments/assets/6f50d650-0fb6-4a1b-ba01-1dabb769b078" />
 
 
 ## 📂 Files
-
 - `comp_neuro_finalproject.py` — main script, run preprocessing and visualization.
 - `cat1.jpeg` — sample input used(replacebale)
 - `gwp.py`- John Carlin's customized Module implement Gabor Filter to Images.
 
-## 🤝 Acknowledgments
 
+## 🤝 Acknowledgments
 Based on Johan Carlin's Gabor filter model(https://www.johancarlin.com/). I am grateful to Professor Bittu for guidance throughout the course, which fostered engaging discussions and a deeper understanding of the subject. I would also like to thank Aryan and Manas for their valuable contributions to classroom discussions and presentations during this ISM.
