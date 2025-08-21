@@ -42,12 +42,20 @@ python comp_neuro_finalproject.py
 ## 📊 Outputs
 
 - Gabor filter visualizations
+
+  
   <img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/6438cf6f-218a-4568-afcc-3bf2271d7ace" />
 - Orientation-specific energy maps
+
+  
   <img width="515" height="188" alt="image" src="https://github.com/user-attachments/assets/24901374-ffd3-4c80-808f-732b3cc33801" />
 - Combined orientation energy map
+
+  
   <img width="274" height="1274" alt="image" src="https://github.com/user-attachments/assets/e862c677-07cb-4043-9317-528753af1a6e" />
 - V1 response to contrast-inverted input
+
+  
   <img width="515" height="376" alt="image" src="https://github.com/user-attachments/assets/6f50d650-0fb6-4a1b-ba01-1dabb769b078" />
 
 
