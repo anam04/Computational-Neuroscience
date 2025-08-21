@@ -1,7 +1,7 @@
 Hello,
 I am Anam Ahamed, a sophomore studying at the Ashoka University.
 I curated a a Computational Neuroscience Project which shows the **Simulation of Visual Cortex Edge Detection with Gabor Filters**.
-This project simulates how the **biologically inspired simulation of V1 visual cortex cells, demonstrating edge/orientation detection using Gabor filters with interactive visualizations**.
+This project simulates how the primary visual cortex (V1) detects edges and orientations using biologically inspired Gabor filters. It demonstrates edge/orientation detection through interactive visualizations.
 
 <img width="466" height="389" alt="image" src="https://github.com/user-attachments/assets/513f8c61-7e09-4809-9c3c-efb43e8c3e69" />
 
@@ -19,10 +19,27 @@ This project simulates how the **biologically inspired simulation of V1 visual c
 - Demonstrated **contrast invariance** on natural images (cat sample).
 - Produced interactive visualizations of orientation maps.
 
+## 🚀 Quickstart
+
+### Run in Colab 
+This project was built and tested entirely on **Google Colab**.  
+To reproduce results, open the notebook below:
+[![Open In Colab](https://colab.research.google.com/drive/1vtpXwzC1h4xkxp47wXspfkWR5yuodIAv?usp=sharing)
+
+### Run locally
+To run it locally follow the instructions below:
+```bash
+git clone https://github.com/<your-username>/<repo-name>
+cd <Compuational-Neuroscience>
+pip install -r requirements.txt
+python comp_neuro_finalproject.py
+**Replace `cat1.jpeg` with any grayscale image to test orientation detection.**
+```
 ## 🧰 Tech Stack
 
-- Google Colab
-- `numpy`, `matplotlib`, `scikit-image`, `tensorflow` (all the libraries that have been used to build this project)
+- Google Colab ->reproducibility & prototyping
+  `requirements.txt`
+- `numpy`, `matplotlib`, `scikit-image`, `tensorflow`-> filter ops, visualization, and computation
 - Custom module: [`gwp`](https://www.johancarlin.com/gabor-filter-models-for-visual-neuroscience.html) (by Johan Carlin)
 
 
